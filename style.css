@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(47, 49, 51);
+}
+.btnBox{
+    text-align: center;
+    margin-top: 20%;
+}
+button{
+    height: 40px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 15%;
+    margin: 25px;
+    font-size: 15px;
+    font-weight: 600;
+}
+#addBtn{
+    background-color:rgb(161, 86, 86);
+}
+#addBtn:hover{
+    background-color:rgb(206, 115, 130);
+}
+#getBtn{
+    background-color: rgb(125, 136, 66);
+}
+#getBtn:hover{
+    background-color: rgb(120, 158, 44);
+}
+#removeBtn{
+    background-color: rgb(207, 151, 83);
+}
+#removeBtn:hover{
+    background-color: rgb(161, 88, 15);
+}
